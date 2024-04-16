@@ -1,0 +1,11 @@
+package waste_manager_address.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import waste_manager_address.models.WasteManagerAddressEntity;
+
+@Repository
+public interface WasteManagerAddressDao extends JpaRepository<WasteManagerAddressEntity, Long> {
+    
+}

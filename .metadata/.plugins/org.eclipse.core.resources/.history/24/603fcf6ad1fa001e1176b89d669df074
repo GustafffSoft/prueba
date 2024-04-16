@@ -1,0 +1,23 @@
+package com.example.demo.models;
+
+import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.Setter;
+
+import java.util.Date;
+@Getter
+@Setter
+@Entity
+@Table(name = "waste_Manager_Address_Entity")
+public class WasteManagerAddressEntity {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	private String direccion;
+	private Boolean isEnabled = Boolean.TRUE;
+	private Long version = 0L;
+	private Date createdDate;
+	private Date lastModifiedDate;
+
+}

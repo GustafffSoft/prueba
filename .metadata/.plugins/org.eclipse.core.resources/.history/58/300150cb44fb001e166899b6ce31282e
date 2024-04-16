@@ -1,0 +1,26 @@
+package com.example.demo.service;
+
+
+import com.example.demo.dao.WasteManagerDao;
+import com.example.demo.models.WasteManagerEntity;
+import org.springframework.stereotype.Service;
+
+@Service
+public class WasteManagerService {
+
+    private WasteManagerDao wasteManagerDao;
+
+    
+
+    public WasteManagerEntity create(WasteManagerEntity wasteManagerEntity) {
+        return wasteManagerDao.save(wasteManagerEntity);
+    }
+
+    public WasteManagerEntity update(WasteManagerEntity wasteManagerEntity) {
+        return wasteManagerDao.save(wasteManagerEntity);
+    }
+
+    public WasteManagerEntity findById(Long id) {
+        return wasteManagerDao.findById(id).orElse(null);
+    }
+}
