@@ -17,5 +17,6 @@ public class WasteManagerAddressModel {
 	private Long version = 0L;
 	private Date createdDate;
 	private Date lastModifiedDate;
+	private Long wasteManagerId;
 
 }

@@ -54,14 +54,9 @@ public class WasteManagerAddressController {
 		return ResponseEntity.ok("Hola mundo");
 	}
 
-	@GetMapping("/getbywestmanager/{westManagerId}")
-	public ResponseEntity<List<WasteManagerAddressEntity>> getByWestManager(@PathVariable Long westManagerId) {
-		List<WasteManagerAddressEntity> westManagerAddress = wasteManagerAddressService.byWasteManagerId(westManagerId);
-		if (westManagerAddress.isEmpty()) {
-
-			return ResponseEntity.noContent().build();
-
-		}
-		return ResponseEntity.ok(westManagerAddress);
+	@GetMapping("/getbywestmanager/{wasteManagerId}")
+	public ResponseEntity<List<WasteManagerAddressEntity>> getByWestManager(@PathVariable Long wasteManagerId) {
+	    List<WasteManagerAddressEntity> westManagerAddress = wasteManagerAddressService.byWasteManagerId(wasteManagerId);
+	    return ResponseEntity.ok(westManagerAddress);
 	}
 }

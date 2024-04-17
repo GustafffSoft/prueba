@@ -1,0 +1,5 @@
+package com.example.demo.feignclients;
+
+public class WasteAddressFeignClient {
+
+}

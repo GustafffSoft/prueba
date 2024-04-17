@@ -2168,3 +2168,176 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-04-15 17:07:58,344 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-04-15 17:07:58,376 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-04-15 17:07:58,379 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 13:34:33,698 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-16 13:34:36,552 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 13:34:36,567 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 13:34:36,573 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\cloud-config-server\src\test\resources
+2024-04-16 13:34:38,103 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 13:34:38,116 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 13:34:38,121 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\gateway_service\src\test\resources
+2024-04-16 13:34:39,530 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 13:34:39,544 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 13:34:39,549 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\naming_service\src\test\resources
+2024-04-16 13:34:40,566 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 13:34:40,578 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 13:34:40,581 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 13:34:41,412 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 13:34:41,422 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 13:34:41,425 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\waste-manager-address-service\src\test\resources
+2024-04-16 17:31:16,294 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\TRABAJO\otra prueba\prueba de java\prueba_java\pom.xml.
+2024-04-16 17:31:16,874 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 17:31:16,917 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 17:31:16,920 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 17:34:50,590 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 17:34:50,596 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 17:34:50,598 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 17:38:02,017 [Worker-25: Launching prueba_java - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 17:38:02,051 [Worker-25: Launching prueba_java - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 17:38:02,059 [Worker-25: Launching prueba_java - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 17:40:37,623 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 17:40:37,626 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 17:40:37,628 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 17:42:41,554 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 17:42:41,560 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 17:42:41,563 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:01:39,272 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\TRABAJO\otra prueba\prueba de java\prueba_java\pom.xml.
+2024-04-16 18:02:41,952 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-dependencies/$%7Bspring-cloud.version%7D/spring-cloud-dependencies-$%7Bspring-cloud.version%7D.pom
+2024-04-16 18:02:42,051 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\TRABAJO\otra prueba\prueba de java\prueba_java\pom.xml.
+2024-04-16 18:03:38,648 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\TRABAJO\otra prueba\prueba de java\prueba_java\pom.xml.
+2024-04-16 18:03:39,606 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1.pom
+2024-04-16 18:03:39,810 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1.pom
+2024-04-16 18:03:40,127 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign/4.1.1/spring-cloud-openfeign-4.1.1.pom
+2024-04-16 18:03:40,406 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign/4.1.1/spring-cloud-openfeign-4.1.1.pom
+2024-04-16 18:03:40,699 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1.pom
+2024-04-16 18:03:41,141 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1.pom
+2024-04-16 18:03:41,176 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0.pom
+2024-04-16 18:03:41,222 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0.pom
+2024-04-16 18:03:41,410 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/parent/3.8.0/parent-3.8.0.pom
+2024-04-16 18:03:41,449 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/parent/3.8.0/parent-3.8.0.pom
+2024-04-16 18:03:42,187 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0.pom
+2024-04-16 18:03:42,265 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0.pom
+2024-04-16 18:03:42,433 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.pom
+2024-04-16 18:03:42,488 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.pom
+2024-04-16 18:03:42,705 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1.pom
+2024-04-16 18:03:43,019 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1.pom
+2024-04-16 18:03:43,392 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/parent/13.2.1/parent-13.2.1.pom
+2024-04-16 18:03:43,627 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/parent/13.2.1/parent-13.2.1.pom
+2024-04-16 18:03:44,332 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1.pom
+2024-04-16 18:03:44,903 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1.pom
+2024-04-16 18:03:45,345 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1.jar
+2024-04-16 18:03:45,610 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1.jar
+2024-04-16 18:03:45,652 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar
+2024-04-16 18:03:45,936 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar
+2024-04-16 18:03:45,949 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0.jar
+2024-04-16 18:03:45,967 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0.jar
+2024-04-16 18:03:46,007 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0.jar
+2024-04-16 18:03:46,018 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0.jar
+2024-04-16 18:03:46,164 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1.jar
+2024-04-16 18:03:46,541 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1.jar
+2024-04-16 18:03:46,641 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1.jar
+2024-04-16 18:03:46,895 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1.jar
+2024-04-16 18:03:47,060 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1.jar
+2024-04-16 18:03:47,061 [BasicRepositoryConnector-nexus.sisinfo.com.uy-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1.jar
+2024-04-16 18:03:47,329 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:03:47,329 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:03:47,332 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:03:48,688 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:03:48,699 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:03:48,702 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:03:48,927 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1-sources.jar
+2024-04-16 18:03:48,929 [Worker-35: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-openfeign:4.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-openfeign:jar:sources:4.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 18:03:49,303 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1-sources.jar
+2024-04-16 18:03:50,235 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-openfeign-core/4.1.1/spring-cloud-openfeign-core-4.1.1-sources.jar
+2024-04-16 18:03:50,238 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-openfeign-core:4.1.1
+2024-04-16 18:03:50,511 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0-sources.jar
+2024-04-16 18:03:50,814 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form-spring/3.8.0/feign-form-spring-3.8.0-sources.jar
+2024-04-16 18:03:50,817 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.openfeign.form:feign-form-spring:3.8.0
+2024-04-16 18:03:51,173 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0-sources.jar
+2024-04-16 18:03:51,503 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/form/feign-form/3.8.0/feign-form-3.8.0-sources.jar
+2024-04-16 18:03:51,506 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.openfeign.form:feign-form:3.8.0
+2024-04-16 18:03:51,824 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5-sources.jar
+2024-04-16 18:03:52,289 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5-sources.jar
+2024-04-16 18:03:52,291 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-fileupload:commons-fileupload:1.5
+2024-04-16 18:03:52,614 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1-sources.jar
+2024-04-16 18:03:53,198 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1-sources.jar
+2024-04-16 18:03:53,201 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.openfeign:feign-core:13.2.1
+2024-04-16 18:03:53,447 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1-sources.jar
+2024-04-16 18:03:53,652 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/io/github/openfeign/feign-slf4j/13.2.1/feign-slf4j-13.2.1-sources.jar
+2024-04-16 18:03:53,655 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.openfeign:feign-slf4j:13.2.1
+2024-04-16 18:05:27,995 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:05:28,000 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:05:28,003 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:06:59,073 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:06:59,076 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:06:59,078 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:15:13,091 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:15:13,094 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:15:13,096 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:15:15,465 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:15:15,468 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:15:15,469 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:18:54,034 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:18:54,037 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:18:54,039 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:22:04,572 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:22:04,575 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:22:04,577 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:26:23,769 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:26:23,772 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:26:23,773 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:26:28,097 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:26:28,099 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:26:28,101 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:32:09,715 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:32:09,719 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:32:09,720 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:33:02,268 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:33:02,276 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:33:02,278 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:33:50,188 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.sisinfo.com.uy/repository/maven-public/org/springframework/cloud/spring-cloud-starter-openfeign/4.1.1/spring-cloud-starter-openfeign-4.1.1-javadoc.jar
+2024-04-16 18:33:50,190 [Worker-42: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-openfeign:4.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-openfeign:jar:javadoc:4.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 18:36:49,437 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:36:49,440 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:36:49,442 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:41:32,434 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:41:32,437 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:41:32,438 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
+2024-04-16 18:42:41,344 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-16 18:42:41,346 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-16 18:42:41,348 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\TRABAJO\otra prueba\prueba de java\prueba_java\src\test\resources
