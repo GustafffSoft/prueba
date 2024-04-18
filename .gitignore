@@ -55,3 +55,4 @@ gradlew.bat
 # Spring Boot
 .env
 application.properties
+/.metadata/
